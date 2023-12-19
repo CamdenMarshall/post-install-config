@@ -57,11 +57,11 @@ Under the Agents tab click on "Teams" and then select "Add New Team"
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/4f5e78ca-30c2-4226-b574-2cb602c8d59a)
 
-Name the Team as required and add the appropiate members on the tab labeled Members
+- Name the Team as required and add the appropiate members on the tab labeled Members
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/eaf12be5-6264-4525-9f1c-d76e417f0310)
 
-Then hit "Create Team"
+- Then hit "Create Team"
 
 <h2>Ticket Creation Standards</h2>
 Certain configurations can allow for tickets to be made without registration in the system or make users regsiter to be able to create tickets
@@ -82,20 +82,20 @@ Click "Add New Agent" and create them as needed
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/ffe97e1c-e5e8-491a-864e-8c1d29ee9bfb)
 
-Set the Passwords as required for Example:
+- Set the Passwords as required for Example:
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/34e5e5ed-eef3-4c15-ae09-be9e315cb514)
 
-Once passwords are set click on the "Access" Tab and set the Agent's Deparment and Role as required
+- Once passwords are set click on the "Access" Tab and set the Agent's Deparment and Role as required
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/29a48933-d26e-4298-a9ed-b7628b186540)
 
-It is possible to assign the Agents to their proper team in the system by clicking "Teams" tab and assigning them correctly
+- It is possible to assign the Agents to their proper team in the system by clicking "Teams" tab and assigning them correctly
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/058c8592-d115-486d-b9d8-74b1fe05ef52)
 
 
-Once complete click "Create"
+- Once complete click "Create"
 
 <h2>Configuring Users</h2>
 Create users to view in the system
@@ -103,14 +103,15 @@ Create users to view in the system
 To do this switch out of the Admin Panel up at the top right and enter into the Agent Panel
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/537fbc91-ec65-4969-a3bf-8ca9f9b49cef)
-This indicates that the user is in the Agent Panel
 
-Once in the Agent Panel go to the "Users" tab and click "Add User"
+- This indicates that the user is in the Agent Panel
+
+- Once in the Agent Panel go to the "Users" tab and click "Add User"
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/42e00e7a-8b97-481d-a7fc-fe91b25fc003)
 
 
-Fill out the User box as required to enter users and then click "Add User"
+- Fill out the User box as required to enter users and then click "Add User"
 
 <h2>Service Level Agreements (SLA)</h2>
 Creating and configuring the SLAs that are to be used in osTicket
@@ -119,7 +120,7 @@ Enter into the Admin Panel once more and navigate to the "Manage" tab an click "
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/5fa20d37-a64e-40e5-8d8b-541aa88240e6)
 
-Click on "Add New SLA Plan" and create the following SLA plans
+- Click on "Add New SLA Plan" and create the following SLA plans
 
 -  Severity-A
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/7096ed3c-3f46-43f5-97f5-73b94e95b8cf)
@@ -130,7 +131,7 @@ Click on "Add New SLA Plan" and create the following SLA plans
 -  Severity-C
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/2521d267-becc-4b2c-8e79-6c28345a42a3)
 
-The SLA plans can be configured as needed
+- The SLA plans can be configured as needed
 
 <h2>Configure Help Topics</h2>
 Creating Help Topics that will allow users to streamline their issues and allow for the helpdesk to assist them quicker
@@ -145,6 +146,6 @@ Example Help Topics to create
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/a9ceefad-2d22-4ca3-b8fa-0a4e84e931ac)
 
-Follow this setup all Help Topics have been created as required
+- Follow this setup till all Help Topics have been created as required
 
 <h2>Post Install Configuration Completed</h2>
