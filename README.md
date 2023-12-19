@@ -41,18 +41,19 @@ Once all the boxes are checked click "Add Role"
 <h2>Configure Departments</h2>
 Create a new department with default settings
 
-Under the Agents tab click on "Departments" and then click "Add New Department"
+Under the Agents tab click on "Departments" and then select "Add New Department"
 
 Creating a new default department will look like this
 
+Name the new department as you require and then click "Create Department" at the bottom of the page
+
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/a9999b69-632a-4369-969e-10ca09e2a1f1)
 
-Name the new department as you require and then click "Create Department" at the bottom of the page
 
 <h2>Creating Teams</h2>
 Create a team that will allow for the consolidation of experienced members into a group to help with issues
 
-Under the Agents tab click on "Teams" and then click on "Add New Team"
+Under the Agents tab click on "Teams" and then select "Add New Team"
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/4f5e78ca-30c2-4226-b574-2cb602c8d59a)
 
@@ -60,22 +61,22 @@ Name the Team as required and add the appropiate members on the tab labeled Memb
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/eaf12be5-6264-4525-9f1c-d76e417f0310)
 
-Then click "Create Team"
+Then hit "Create Team"
 
 <h2>Ticket Creation Standards</h2>
 Certain configurations can allow for tickets to be made without registration in the system or make users regsiter to be able to create tickets
 
-Click on "Settings" in the top tabs and then click "Users" in the subtab
+Click on "Settings" in the top tabs and then select "Users" in the subtab
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/6d6146db-bf4b-4768-b73b-deca8afaadce)
 
 
-Under Authentication Settings click the checkbox of "Require registration and login to create tickets" and finish by clicking "Save Changes" at the bottom of the page
+Under Authentication Settings check the checkbox of "Require registration and login to create tickets" and finish by selecting "Save Changes" at the bottom of the page
 
 <h2>Setting up Helpdesk Agents</h2>
 Creating the agents to handle the tickets coming into the system and assign them into departments and roles
 
-Click on "Agents" in the top tabs and then click "Agents" in the subtab
+Click on "Agents" in the top tabs and then select "Agents" in the subtab
 
 Click "Add New Agent" and create them as needed
 
@@ -89,7 +90,7 @@ Once passwords are set click on the "Access" Tab and set the Agent's Deparment a
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/29a48933-d26e-4298-a9ed-b7628b186540)
 
-Can also assign the Agents to their proper team in the system by clicking "Teams" tab and assigning them correctly
+It is possible to assign the Agents to their proper team in the system by clicking "Teams" tab and assigning them correctly
 
 ![image](https://github.com/CamdenMarshall/post-install-config/assets/153537343/058c8592-d115-486d-b9d8-74b1fe05ef52)
 
